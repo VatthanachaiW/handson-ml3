@@ -32,7 +32,7 @@ Other services may work as well, but I have not fully tested them:
 
 * <a href="https://nbviewer.jupyter.org/github/ageron/handson-ml3/blob/main/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
-* [github.com's notebook viewer](https://github.com/ageron/handson-ml3/blob/main/index.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
+* [github.com's notebook viewer](https://github.com/VatthanachaiW/handson-ml3/blob/main/index.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
 
 ### Want to run this project using a Docker image?
 Read the [Docker instructions](https://github.com/ageron/handson-ml3/tree/main/docker).
