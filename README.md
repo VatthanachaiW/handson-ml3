@@ -6,7 +6,7 @@ python. It contains the example code and solutions to the exercises in the third
 
 <a href="https://homl.info/er3"><img src="https://learning.oreilly.com/library/cover/9781098125967/300w/" title="book" width="150" border="0" /></a>
 
-**Note**: If you are looking for the second edition notebooks, check out [ageron/handson-ml2](https://github.com/ageron/handson-ml2). For the first edition, see [ageron/handson-ml](https://github.com/ageron/handson-ml).
+**Note**: If you are looking for the second edition notebooks, check out [ageron/handson-ml2](https://github.com/ageron/handson-ml2). For the first edition, see [ageron/handson-ml](https://github.com/VatthanachaiW/handson-ml).
 
 ## Quick Start
 
@@ -35,7 +35,7 @@ Other services may work as well, but I have not fully tested them:
 * [github.com's notebook viewer](https://github.com/VatthanachaiW/handson-ml3/blob/main/index.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
 
 ### Want to run this project using a Docker image?
-Read the [Docker instructions](https://github.com/ageron/handson-ml3/tree/main/docker).
+Read the [Docker instructions](https://github.com/VatthanachaiW/handson-ml3/tree/main/docker).
 
 ### Want to install this project on your own machine?
 
